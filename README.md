@@ -39,7 +39,6 @@
 
 * 💻 Currently working on novel Meta-learning approaches, GANs, and LLMs
 <br/>
-📫 Drop me an email at: francyccio93@gmail.com
 
 
 <details>
